@@ -1,3 +1,3 @@
-require('./hello.css')
+require('./css/hello')
 
-export default 'Salut les gens'
+export default 'Salut les gens 5'
